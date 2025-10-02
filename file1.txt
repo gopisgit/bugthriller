@@ -3,9 +3,11 @@
 using namespace std;
 int main() {
     int a;
-    int b;
+    int x;
 
-    cout <<"the sum of a + b = "<<endl;
-    cin >> a >> b;
+    cout <<"the sum of a + x = "<<endl;
+    cin >> a >> x;
+
+    cout << a << endl;
 
     return 0;
