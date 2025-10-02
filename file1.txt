@@ -1,5 +1,11 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main() {
-cout<<"n"<<endl;
-}
+    int a;
+    int b;
+
+    cout <<"the sum of a + b = "<<endl;
+    cin >> a >> b;
+
+    return 0;
